@@ -8,7 +8,7 @@ A port of [VS Code](https://github.com/microsoft/vscode) default theme Dark+.
 Install
 -------
 
-- Right-click [`VSCode Dark+.itermcolors`](https://raw.githubusercontent.com/rbika/iterm2-vscode-dark-plus/master/VS%20Dark%2B.itermcolors) and choose `Save Link As…`.
+- Right-click [`VSCode Dark+.itermcolors`](https://raw.githubusercontent.com/rbika/iterm2-vscode-dark-plus/master/VSCode%20Dark%2B.itermcolors) and choose `Save Link As…`.
 - Double-click the downloaded file.
 
 Color Reference
