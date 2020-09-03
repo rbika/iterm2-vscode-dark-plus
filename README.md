@@ -8,16 +8,16 @@ A port of [VS Code](https://github.com/microsoft/vscode) default theme Dark+.
 Install
 -------
 
-- Right-click [`VS Dark+.itermcolors`]() and choose `Save Link As…`.
+- Right-click [`VS Dark+.itermcolors`](https://raw.githubusercontent.com/rbika/iterm2-vs-dark-plus/master/VS%20Dark%2B.itermcolors) and choose `Save Link As…`.
 - Double-click the downloaded file.
 
 Color Reference
 ---------------
 
-| Text          | Foreground | Background |
-|---------------|:----------:|:----------:|
-| Default Text  | `#cccccc`  | `#1e1e1e`  |
-| Selected Text | `#ffffff`  | `#555555`  |
+| Text     | Foreground | Background |
+|----------|:----------:|:----------:|
+| Default  | `#cccccc`  | `#1e1e1e`  |
+| Selected | `#ffffff`  | `#555555`  |
 
 | Color   | Normal    | Bright    |
 |---------|:---------:|:---------:|
