@@ -1,5 +1,5 @@
-iTerm2 - VS Dark+
-=================
+iTerm2 - VSCode Dark+
+=====================
 
 A port of [VS Code](https://github.com/microsoft/vscode) default theme Dark+.
 
